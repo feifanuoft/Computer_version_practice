@@ -2,9 +2,9 @@
 
 This repository contains a variety of practice assignments for computer vision.
 
-One of them, LAB1, consists mainly of rotating a picture and changing the RBG channel of the picture.
+LAB1, consists mainly of rotating a picture and changing the RBG channel of the picture.
 
-prelab2 and LAB2 mainly consist of operations to change the grayscale value of the picture and colorize the picture, practicing the application of Kmean algorithm in image processing.
+Prelab2 and LAB2 mainly consist of operations to change the grayscale value of the picture and colorize the picture, practicing the application of Kmean algorithm in image processing.
 
 The main content of LAB3 and prelab3 is to find the circular shape in the image.
 
