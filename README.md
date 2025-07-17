@@ -1,4 +1,4 @@
-## computer version project
+## computer vision project
 
 This repository contains a variety of practice assignments for computer vision.
 
